@@ -1,4 +1,4 @@
-FROM node
+FROM node:carbon
 
 MAINTAINER Stephan Leicht Vogt <stephan@jessie.ai>
 
