@@ -1,4 +1,4 @@
-FROM node:lts
+FROM node:10.9
 
 MAINTAINER Stephan Leicht Vogt <stephan@jessie.ai>
 
